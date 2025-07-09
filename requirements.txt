@@ -6,3 +6,4 @@ python-dotenv
 ipython
 notebook
 requests
+BeautifulSoup
